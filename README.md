@@ -14,6 +14,8 @@ A Comprehensive analysis of sales data from a superstore, uncovering actionable 
 
 This project delves into the sales data of a Superstore using an excel dashboard. We're exploring crucial factors like Segment,Country,State,Category,Subcategoy, and more to understand sales trends and Proitability.
 
+![Uploading Superstore Dashboard....JPG…]()
+
 ## Data Source
 
 The data source for this project is provided in the form of a CSV File containing all the necessary fields. 
@@ -22,7 +24,6 @@ The data source for this project is provided in the form of a CSV File containin
 ## Tools 
 
 The main tool used for this project is Microsoft Excel.its where we imported the CSV dataset, Clean the data, analyzed the data, and created visualizations to understand sales trends.
-![Uploading Superstore Dashboard....JPG…]()
 
 ## Data Cleaning/Preparation
 
